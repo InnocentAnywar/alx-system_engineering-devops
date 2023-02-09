@@ -1,2 +1,2 @@
 #!/bin/bash
-mv my_first_directory/ /tmp/
+mv my_first_directory/ /tmp/  why?
