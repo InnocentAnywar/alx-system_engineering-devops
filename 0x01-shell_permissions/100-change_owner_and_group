@@ -1,2 +1,3 @@
 #!/bin/bash
-chowm vincent:stuff * */
+chowm vincent:stuff *
+
