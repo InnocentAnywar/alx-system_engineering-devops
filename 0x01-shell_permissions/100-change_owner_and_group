@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chowm vincent:stuff * */
+chowm vincent:stuff * */
