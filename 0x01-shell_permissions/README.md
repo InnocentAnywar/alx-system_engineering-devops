@@ -12,3 +12,4 @@
 11-directories_permissions adds execute permissio                   to user, group and others in a                   ll subdirectories in current w                   orking directory.
 12-directory_permissions creates a directory call                   ed my_dir with permissions 751
 13-change_group    changes group owner to school                    of the file hello.
+100-change_owner_and_group changes owner and grou                   p to vincent and staff respect                   ively.
