@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --ignore-existing *.html .. 
+cp -u *.html ..
