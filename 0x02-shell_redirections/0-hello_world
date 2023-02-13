@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Hello, World \nWhy? \n"
+printf "Hello, World\n  \n"
