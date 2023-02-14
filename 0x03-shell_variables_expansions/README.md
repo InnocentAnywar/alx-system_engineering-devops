@@ -3,3 +3,4 @@
 2-path		displays the PATH directories
 4-global_variables	 prints global variables
 5-local_variables	 prints local variables
+6-create_local_variable	 creates local variable
