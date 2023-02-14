@@ -8,3 +8,4 @@
 8-true_knowledge	 prints value of addition			  of 128 to $TRUEKNOWLEDGE
 9-divide_and_rule	 prints the result of pow			  er divided by $DIVIDE
 10-love_exponent_breath	 diplays the result of $B			  REATH to the power $LOVE
+11-binary_to_decimal	 converts $BINARY from ba			  se 2 to decimal
