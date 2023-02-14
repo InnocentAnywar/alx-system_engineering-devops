@@ -4,3 +4,4 @@
 4-global_variables	 prints global variables
 5-local_variables	 prints local variables
 6-create_local_variable	 creates local variable
+7-create_global_variable creates global variable
