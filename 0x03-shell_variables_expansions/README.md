@@ -6,3 +6,4 @@
 6-create_local_variable	 creates local variable
 7-create_global_variable creates global variable
 8-true_knowledge	 prints value of addition			  of 128 to $TRUEKNOWLEDGE
+9-divide_and_rule	 prints the result of pow			  er divided by $DIVIDE
