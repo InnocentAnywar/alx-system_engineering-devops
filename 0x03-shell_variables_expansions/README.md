@@ -25,3 +25,5 @@
 12-combinations-prints all possible combinations of two letters	except oo
 
 13-print_float-prints numbers with two decimal places
+
+100-decimal_to_hexadecimal-converts number stored in $DECIMAL from base 10 to base 16
